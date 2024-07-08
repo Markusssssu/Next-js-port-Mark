@@ -14,6 +14,9 @@ import {
   SiVuedotjs,
   SiVite,
   SiNextdotjs,
+  SiGnometerminal,
+  SiArchlinux,
+  SiMysql
 } from "react-icons/si";
 
 const about = {
@@ -87,6 +90,19 @@ const skills = {
     {
       icon: <SiVite />,
       name: "Vite",
+    },
+     {
+      icon: <SiMysql />,
+      name: "Sql",
+    },
+    {
+      icon: <SiArchlinux />,
+      name: "Arch",
+    },
+
+    {
+      icon: <SiGnometerminal />,
+      name: "Terminal",
     },
 
     {
