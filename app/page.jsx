@@ -2,6 +2,7 @@ import Photo from "@/components/Photo";
 import Social from "@/components/Social";
 import Stats from "@/components/Stats";
 import { Button } from "@/components/ui/button";
+import {FiDownload} from "@/react-icons/fi"
 
 
 const Home = () => {
@@ -26,7 +27,7 @@ const Home = () => {
                 size="lg"
                 className="uppercase flex items-center gap-2"
               >
-                <span>Donate</span>
+                <span>Chill</span>
                 
               </Button>
               </a>
