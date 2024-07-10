@@ -2,7 +2,7 @@ import Photo from "@/components/Photo";
 import Social from "@/components/Social";
 import Stats from "@/components/Stats";
 import { Button } from "@/components/ui/button";
-import {FiDownload} from "@/react-icons/fi"
+
 
 
 const Home = () => {
@@ -21,7 +21,7 @@ const Home = () => {
             </p>
             {/* btn and social */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
-              <a href="https://youtu.be/FlaDNyuPnfg">
+              <a href="https://youtu.be/nOoNJTGEav0">
               <Button
                 variant="outline"
                 size="lg"
