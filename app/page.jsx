@@ -2,7 +2,7 @@ import Photo from "@/components/Photo";
 import Social from "@/components/Social";
 import Stats from "@/components/Stats";
 import { Button } from "@/components/ui/button";
-import { FiDonate } from "react-icons/fa";
+
 
 const Home = () => {
   return (
@@ -20,14 +20,14 @@ const Home = () => {
             </p>
             {/* btn and social */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
-              <a href="">
+              <a href="https://youtu.be/FlaDNyuPnfg">
               <Button
                 variant="outline"
                 size="lg"
                 className="uppercase flex items-center gap-2"
               >
                 <span>Donate</span>
-                <FiDonate className="text-xl" />
+                
               </Button>
               </a>
               <div className="mb-8 xl:mb-0">
