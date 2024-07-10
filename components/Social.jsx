@@ -4,7 +4,8 @@ import {FaGitlab, FaTelegram, FaDiscord, FaDonate} from "react-icons/fa"
 const socials = [
     {icon: <FaGitlab/>, path: "https://gitlab.com/mark2911527/mark/-/learn_gitlab" },
     {icon: <FaDiscord/>, path: "https://discordapp.com/users/896039036517507152/ ", },
-    {icon: <FaYoutube/>, path: "https://youtu.be/b1Qbw82cDCk?t=231", },
+    {icon: <FaDonate/>, path: "https://www.donationalerts.com/r/mark_339",},
+    
     
 ]
 
