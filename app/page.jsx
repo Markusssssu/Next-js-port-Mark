@@ -21,7 +21,7 @@ const Home = () => {
             </p>
             {/* btn and social */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
-              <a href="https://youtu.be/nOoNJTGEav0">
+              <a href="https://www.donationalerts.com/r/mark_339">
               <Button
                 variant="outline"
                 size="lg"
