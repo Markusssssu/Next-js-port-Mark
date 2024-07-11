@@ -27,7 +27,7 @@ const Home = () => {
                 size="lg"
                 className="uppercase flex items-center gap-2"
               >
-                <span>Chill</span>
+                <span>Donate</span>
                 
               </Button>
               </a>
